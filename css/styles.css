@@ -146,3 +146,36 @@ main {
 
 
 /* Style the footer here */
+footer {
+  overflow: hidden;
+  background-color: #333333;
+  height: 30px;
+  font-size: 12px;
+  padding: 0 30px;
+}
+
+.copyright {
+  float: right;
+  margin: 0;
+  line-height: 30px;
+}
+
+.social-links {
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+.social-links li {
+  display: inline-block;
+  line-height: 30px;
+  margin-right: 15px;
+}
+
+.social-links li a {
+  text-decoration: none;
+  color: white;
+}
+
+
+
